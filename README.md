@@ -2,11 +2,11 @@
 
 # Circuit Theory #
 
-Real analaog circuits  
+Real analaog circuits :notebook:  
 _Digilent_  
 https://learn.digilentinc.com/classroom/realanalog/
 
-6.002 Circuits and Electronics  
+6.002 Circuits and Electronics :notebook:  
 _MIT OCW_  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/
 
