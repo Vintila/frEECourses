@@ -2,6 +2,10 @@
 
 # Circuit Theory #
 
+Circuits and Systems  
+_Caltech_  
+https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z
+
 Real analaog circuits :notebook:  
 _Digilent_  
 https://learn.digilentinc.com/classroom/realanalog/
@@ -33,10 +37,6 @@ https://www.youtube.com/playlist?list=PLc7Gz02Znph8d2777p1PUrfPL-8nfj8oZ
 
 
 # Signals and Systems #
-
-Circuits and Systems  
-_Caltech_  
-https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z
 
 6.003 Signals and systems :notebook:  
 _MIT OCW_  
