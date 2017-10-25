@@ -24,6 +24,10 @@ ECE2040 Circuit Analysis :notebook:
 _Georgia Tech_  
 http://ece2040.ece.gatech.edu/
 
+Circuit Analysis :notebook:  
+_Khan Academy_  
+https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic
+
 
 # Analog design #
 
@@ -58,3 +62,9 @@ https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011
 Power Electronics :notebook:  
 _University of Colorado Boulder_  
 https://www.coursera.org/specializations/power-electronics
+
+# Misc #
+
+Introduction to Radar Systems  
+_MIT Lincoln Laboratory_  
+https://ll.mit.edu/workshops/education/videocourses/introradar/index.html
